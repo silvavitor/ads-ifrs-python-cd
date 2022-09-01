@@ -21,4 +21,4 @@ lint:
 	
 deploy:
 	echo "Deploying app"
-	eb deploy Flaskapplication-env
+	eb deploy ads-python-cd-env
